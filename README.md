@@ -5,10 +5,7 @@ Se enfoca en subir diversos proyectos que se llevaron a cabo , ofreciendo una ex
 
 ### Características
 
-* **Interfaz de Usuario Intuitiva**:Navegación fácil y accesible.
-  
-* **Interacciones dinámicas:**Efectos visuales para elementos interactivos como botones y enlaces.
-  
+* **Interfaz de Usuario Intuitiva**:Navegación fácil y accesible.  
 * **Iconografía y Estilos Modernos:** Uso de la biblioteca de íconos de Material Design y estilos CSS modernos para una aoariencia cool.
 
  ### Tecnologías Utilizadas
